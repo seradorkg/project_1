@@ -23,7 +23,7 @@
     color: white;
 }
 
-#read-about-us {
+#read-about-us, #read-about-us-consumer {
     background-color: #00804a;
 }
 
@@ -162,8 +162,8 @@
 
 @media only screen and (max-width: 600px) {
 
-    #read-about-us {
-        margin-top: 85%;
+    #read-about-us-consumer {
+        margin-top: 85% !important;
     }
 
     #footer-consumer {
