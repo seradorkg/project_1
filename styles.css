@@ -1,0 +1,77 @@
+
+.navigation-bar {
+    background-color: green !important;
+}
+
+.navigation-content {
+    background-color: whitesmoke !important;
+    background-image: url(https://assets.grab.com/wp-content/uploads/sites/12/2019/07/22132400/PAX.jpg);
+    background-repeat: no-repeat;
+    height: 250px;
+    background-size: contain; 
+    background-position: right;
+}
+
+.list-item {
+    width: 50%;
+}
+
+.bg-highlight {
+    margin: 0;
+    padding: 20px 20px;
+    font-weight: bolder;
+    color: white;
+}
+
+#read-about-us {
+    background-color: #00804a;
+}
+
+#download-app {
+    background-color: #61CE70;
+}
+
+.article-p {
+    height: 350px;
+}
+
+.article-h {
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+    width: 600px;
+}
+
+.horizontal-line {
+    width: 1700px;
+    margin-left: 100px;
+}
+
+.horizontal-line-sm {
+    width: 700px;
+}
+
+#newsroom-lbl {
+    padding-left: 100px;
+}
+
+#more-services {
+    color: black;
+    text-decoration: none;
+}
+
+.card-layout {
+    margin-left: 100px;
+}
+
+.card {
+    width: 500px !important;
+}
+
+.card-img-top {
+    height: 300px !important;
+
+}
+
+#more-news {
+    width: 200px;}
