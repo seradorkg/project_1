@@ -97,3 +97,17 @@
    height: 700px;
    width: 100%;
 }
+
+#img-why-grabfood {
+    margin-left: 20%;
+}
+
+.ways-order {
+    background-color: whitesmoke;
+    height: 1400px;
+}
+
+.order-title, .order-content, .order-img {
+    margin-left: 50px;
+}
+
