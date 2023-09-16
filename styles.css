@@ -74,4 +74,26 @@
 }
 
 #more-news {
-    width: 200px;}
+    width: 200px;
+}
+
+#consumer-lbl {
+    margin-left: 60px;
+    margin-top: 200px;
+}
+
+.banner-header {
+    height: 700px;
+}
+
+#consumer-content-lbl {
+    width: 800px;
+    font-size: 70px;
+    font-weight: bolder;
+    margin-left: 60px;
+}
+
+#header-banner-img {
+   height: 700px;
+   width: 100%;
+}
