@@ -164,6 +164,11 @@
     width: 3vw !important;
 }
 
+.consumer-img {
+    width: 40vw;
+    height: 25vw;
+}
+
 
 @media only screen and (max-width: 600px) {
 
