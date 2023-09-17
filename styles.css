@@ -159,8 +159,21 @@
     height: 60px;
 }
 
+.circle-dot {
+    height: 3vw !important;
+    width: 3vw !important;
+}
+
 
 @media only screen and (max-width: 600px) {
+
+    #rides-row {
+        margin-top: -45% !important;
+    }
+
+    #mobility-row {
+        margin-top: 55% !important;
+    }
 
     #read-about-us-consumer {
         margin-top: 85% !important;
