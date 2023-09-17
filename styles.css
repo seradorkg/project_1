@@ -146,10 +146,10 @@
 }
 
 #grab-driver-img {
-    margin-top: -50px;
-    margin-bottom: -48px;
-    margin-left: -193px;
-    height: 950px;
+    margin-top: -6%;
+    margin-left: -23.8%;
+    height: 45vw;
+    width: 59vw;
 }
 
 
@@ -171,25 +171,30 @@
 
 @media only screen and (max-width: 770px) {
 
+    #grab-driver-img {
+        margin-top: 320%;
+        margin-left: -106%;
+    }
+
     #read-about-us-consumer {
         margin-top: 30% !important;
     }
 
-}
-
-
-@media only screen and (max-width: 600px) {
-
+    
     #rides-row {
         margin-top: -45% !important;
     }
 
     #mobility-row {
-        margin-top: 55% !important;
+        margin-top: 20% !important;
     }
 
     #read-about-us-consumer {
         margin-top: 85% !important;
+    }
+
+    #mobility-h {
+        margin-top: -48%
     }
 
     #footer-consumer {
@@ -197,9 +202,20 @@
         position: relative;
         z-index: 1;
     }
+
 }
 
+
 @media only screen and (max-width: 400px) {
+
+    #mobility-row {
+        margin-top: 110% !important;
+    }
+
+    #grab-driver-img {
+        margin-top: 0%;
+        margin-left: 0%;
+    }
 
     #read-about-us-consumer {
         margin-top: 135% !important;
